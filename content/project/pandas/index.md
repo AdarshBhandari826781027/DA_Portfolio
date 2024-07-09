@@ -1,13 +1,13 @@
 ---
-title: Pandas
+title: Affordable Healthcare Insurance
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://mjoshi2669.wixsite.com/mudkip/s-projects-side-by-side
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Our study employs statistical analysis and data visualization to understand the dynamics shaping insurance accessibility. We examine the connections between insurance availability, demographics, and economic metrics, providing insights into healthcare disparities
 
 <!--more-->
