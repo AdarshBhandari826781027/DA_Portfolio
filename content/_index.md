@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am deeply passionate about data science because it combines my love for analytical problem-solving with impactful real-world applications. My journey in data science has been fueled by the thrill of uncovering hidden insights from complex datasets and using these discoveries to drive decisions that enhance business strategies and improve lives. The field's constant evolution keeps me engaged as I continuously learn and apply new techniques, from machine learning to advanced predictive analytics. This passion not only motivates my work but also drives me to contribute to a community that leverages data for innovation and progress.
     design:
       columns: 3
   - block: collection
