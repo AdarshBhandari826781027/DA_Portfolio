@@ -1,6 +1,6 @@
 ---
 title: Hate Crime and Mental Health
-date: 2023-10-26
+date: 2022-09-01
 external_link: https://sites.google.com/sdsu.edu/analyzing-crime-data/home
 ---
 
