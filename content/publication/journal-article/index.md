@@ -25,7 +25,7 @@ abstract: The automation of identifying and classifying receipts requires a soph
 # Summary. An optional shortened abstract.
 summary: The automation of identifying and classifying receipts requires a sophisticated which utilises various technology and algorithms. Firstly, images are cleaned with image processing technique like rasterization, binary black and white classification and skewing. The tesseract engine is used in the process of Optical Character Recognition, to convert image into virtual text. Tesseract is a powerful engine which uses multiple algorithms to enhance accuracy. Thirdly, the generated text is used to extract meaning by defining extraction rules and building a classifier based on predefined entities. By using these methods meaning and semantics of the receipt are extracted. This data is extracted and the meaning of data is to be stored in a non-relational database management system as the receipts are not homogeneous in nature. Multiple invoices received will be stored in separate collections for building a huge record. The user is expected to upload a month expenditure on this database. Lastly, a report based on aggregation and generalization of this data is to be created. The report has to be specialized to the user’s requirement and input using various data visualisation tools in this way we aim to automate the process of managing and classifying receipts.
 tags:
-- Source Themes
+- Image Recognition
 featured: true
 
 # links:
